@@ -4,3 +4,6 @@ Following the research paper: https://academic.oup.com/annweh/article-abstract/6
 and implement dataset on chemical exposure health data. 
 This is the class project of Bayesian statistic course MATH 574 at IIT
 To be update...
+
+Hierarchical model: file:///Users/thanhng/heart_mortality.html
+ 
